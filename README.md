@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShanChuanWang
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java, JavaScript, HTML, PHP.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Java, JavaScript, HTML, PHP. 
 - 📫 I can be reached via email at shuaisdu@gmail.com
 
 <!---
