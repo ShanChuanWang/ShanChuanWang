@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nasa_photo_favourite"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/Nasa_Photo_Favourite" />
+    <item
+        android:id="@+id/goto_place_kitten"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="@string/place_kitten" />
+    <item
+        android:id="@+id/goto_ny_times"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="@string/ny_times" />
+    <item
+        android:id="@+id/goto_weather_stack"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="@string/weather_stack_master" />
+</menu>

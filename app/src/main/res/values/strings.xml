@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="nasa_photo_text">Please enter the date</string>
+    <string name="nasa_photo_search">Search</string>
+    <string name="Nasa_Photo_Favourite">Favourite</string>
+    <string name="place_kitten">Place Kitten</string>
+    <string name="ny_times">New York Times</string>
+    <string name="weather_stack_master">WeatherStack</string>
+    <string name="project_menu_info">Please select a feature to review</string>
+    <string name="menu_nasa_photo">Nasa Mars Rover photos</string>
+    <string name="menu_place_kitten">Place Kitten Placeholder images</string>
+    <string name="menu_ny_times">New York Times</string>
+    <string name="menu_weather_stack">WeatherStack</string>
+    <string name="camera_name">Camera Name:</string>
+    <string name="nasa_photo_url">Photo URL:</string>
+    <string name="nasa_photo_add_to_favourite">Add to favourite</string>
+    <string name="nasa_photo_deletion">Delete</string>
+    <string name="nasa_photo_back_to_list">Back to previous menu</string>
+    <string name="welcome_message">Welcome to Nasa Mars Photos</string>
+    <string name="favorite_photos">Favourite Nasa Mars Photos</string>
+
+</resources>

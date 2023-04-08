@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbars="none">
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_200"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/photoDetail"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/app_icon" />
+
+        <TextView
+            android:id="@+id/cameraName"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/camera_name"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/nasaPhotoUrl"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:autoLink="web"
+            android:clickable="true"
+            android:focusable="true"
+            android:text="@string/nasa_photo_url" />
+
+        <Button
+            android:id="@+id/btnAddToFavourite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nasa_photo_add_to_favourite" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nasa_photo_deletion" />
+
+        <Button
+            android:id="@+id/btnBackToPrevious"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nasa_photo_back_to_list" />
+
+
+    </LinearLayout>
+</ScrollView>
