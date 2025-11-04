@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shuai Wang
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java, JavaScript, HTML, PHP, SQL, system design
+- 🌱 I’m a Data Engineer
 - 📫 I can be reached via email at shuaisdu@gmail.com
 
 <!---
